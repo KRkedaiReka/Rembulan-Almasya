@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Diary Embul</title>
+<body><h1>Hai Hai Hai!</h1></body>
+</head>
+</html>
